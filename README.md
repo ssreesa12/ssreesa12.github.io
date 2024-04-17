@@ -1,4 +1,5 @@
-# ssreesa12.github.io
+# tic-tac-toe
+
 hello every one .. 
 i have coded a tic-tac-toe game.
 As i am a beignner in java script so to brush up my skills i have coded this game
